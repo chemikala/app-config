@@ -1,6 +1,6 @@
 security:
  basic:
-  enabled: false# turn off securing our application endpoints
+  enabled: false #New Comments
 management:
  security:
   enabled: false
